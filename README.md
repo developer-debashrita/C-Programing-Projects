@@ -7,8 +7,17 @@
 ### Project 2:Basic Calculator
 <img width="392" height="80" alt="image" src="https://github.com/user-attachments/assets/f46d2a03-f2f6-405e-9ff3-756e2d33de29" />
 
-### Project 2:Grade Calculator
+### Project 3:Grade Calculator
 <img width="306" height="171" alt="image" src="https://github.com/user-attachments/assets/de714278-5224-4d60-9b44-8b4b2aa7e630" />
+
+### Project 4:ATM Machine simulation
+<img width="378" height="240" alt="image" src="https://github.com/user-attachments/assets/61336332-cbfc-42ac-87bd-719ab4ef0af9" />
+
+### Project 5:Rock Paper Scissor Game
+<img width="344" height="218" alt="image" src="https://github.com/user-attachments/assets/a31f424b-fe74-41e5-acbf-23438c169ea9" />
+
+### Project 6:Tempurature Converter
+<img width="382" height="187" alt="image" src="https://github.com/user-attachments/assets/a02eeece-6e16-49cc-8075-c16110653408" />
 
 
 ## C++ Projects
